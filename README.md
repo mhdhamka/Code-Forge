@@ -39,7 +39,7 @@ Code Craft is a lightweight online code editor inspired by Visual Studio Code. I
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 
