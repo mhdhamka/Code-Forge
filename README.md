@@ -1,8 +1,8 @@
-# 🚀 VertexCode
+# 🚀 CodeForge
 
 > A modern, browser-based code editor built with Next.js, TypeScript, and Monaco Editor.
 
-VertexCode is a lightweight online code editor inspired by Visual Studio Code. It provides a clean development experience with syntax highlighting, multiple programming languages, customizable editor themes, and real-time code editing directly in the browser.
+CodeForge is a lightweight online code editor inspired by Visual Studio Code. It provides a clean development experience with syntax highlighting, multiple programming languages, customizable editor themes, and real-time code editing directly in the browser.
 
 > **⚠️ Project Status:** This project is currently under active development. Features and documentation may change as development continues.
 
@@ -17,10 +17,9 @@ VertexCode is a lightweight online code editor inspired by Visual Studio Code. I
 - 🔥 TypeScript Support
 - 🌙 Dark Mode
 - 📱 Responsive Design
-- 🔒 Authentication with Clerk *(if enabled)*
-- ☁️ Backend powered by Convex *(if enabled)*
-- 📝 Auto-saving *(planned)*
-- ▶️ Online Code Execution *(currently being updated due to Piston API changes)*
+- 🔒 Authentication with Clerk 
+- ☁️ Backend powered by Convex 
+- ▶️ Online Code Execution 
 
 ---
 
@@ -36,28 +35,7 @@ VertexCode is a lightweight online code editor inspired by Visual Studio Code. I
 | Clerk | Authentication |
 | Convex | Backend & Database |
 | Framer Motion | Animations |
-| Zustand | State Management *(if used)* |
-
----
-
-## 📁 Project Structure
-
-```
-vertexcode/
-│
-├── app/
-├── components/
-├── hooks/
-├── lib/
-├── providers/
-├── public/
-├── types/
-├── utils/
-├── convex/
-├── middleware.ts
-├── package.json
-└── README.md
-```
+| Zustand | State Management |
 
 ---
 
@@ -66,13 +44,13 @@ vertexcode/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/vertexcode.git
+git clone https://github.com/yourusername/CodeForge.git
 ```
 
 ### 2. Navigate into the project
 
 ```bash
-cd vertexcode
+cd CodeForge
 ```
 
 ### 3. Install dependencies
