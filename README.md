@@ -1,4 +1,4 @@
-# 🚀 Code Craft
+# Code Craft
 
 > A modern, browser-based code editor built with Next.js, TypeScript, and Monaco Editor.
 
