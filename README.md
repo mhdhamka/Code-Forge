@@ -88,28 +88,6 @@ http://localhost:3000
 
 ---
 
-## 📸 Screenshots
-
-> Screenshots will be added once the project reaches a stable release.
-
----
-
-## 🗺️ Roadmap
-
-- [x] Monaco Editor Integration
-- [x] Theme Switching
-- [x] Multi-language Support
-- [x] Clerk Authentication
-- [x] Convex Backend
-- [ ] Code Execution API
-- [ ] File Explorer
-- [ ] Terminal
-- [ ] GitHub Integration
-- [ ] AI Code Assistant
-- [ ] Collaboration Mode
-
----
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome.
@@ -134,20 +112,7 @@ This project is intended for educational and portfolio purposes.
 ![Status](https://img.shields.io/badge/Status-In%20Development-orange)
 ![License](https://img.shields.io/badge/License-Educational-lightgrey)
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 
